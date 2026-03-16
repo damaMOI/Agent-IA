@@ -1,4 +1,6 @@
 streamlit
 anthropic
 python-dotenv
+plotly
+pandas
 fpdf2
